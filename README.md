@@ -34,7 +34,7 @@ Hi, I'm Mahdiyar, a software developer from Iran. I love creating web applicatio
 
 ## Skills
 - HTML, CSS, JavaScript
-- Node.js, Lua
+- Node.js, Lua, SQLite
 - CorelDraw, Photo Shop
 - Python, Flask
 - Git, GitHub, VS Code
