@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 -->
 
 
-# Mahdiyar Emad
+# 🗽 Mahdiyar Emad
 Hi, I'm Mahdiyar, a software developer from Iran. I love creating web applications and learning new technologies. I have a bachelor's degree in computer science and over three years of professional experience in various projects and domains.
 
-## Skills
+## ⚡ Skills
 - HTML, CSS, JavaScript
 - Node.js, Lua, SQLite
 - CorelDraw, Photo Shop
@@ -40,7 +40,7 @@ Hi, I'm Mahdiyar, a software developer from Iran. I love creating web applicatio
 - C, Algorithm, Data Structre
 - Git, GitHub, VS Code
 
-## Projects
+## 🌱 Projects
 Here are some of the projects I have worked on or contributed to:
 
 | Project | Description | Technologies |
@@ -50,7 +50,7 @@ Here are some of the projects I have worked on or contributed to:
 | [RP Pause](https://github.com/MTMrAlone/RP-Pause) | A system for place rp pause in owl gaming gamemode in MTA:SA. | Multi Theft Auto S.A, Lua, Xml |
 | [Sturdy](https://sturdy.ir/) | A shopping website for a company | WordPress | 
 
-## Achievements
+## 🏆 Achievements
 - Completed CS50x in 2023.
 - Discord Active Developer.
 
