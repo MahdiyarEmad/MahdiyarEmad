@@ -45,7 +45,7 @@ Here are some of the projects I have worked on or contributed to:
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [FiveM Timer](https://discord.gg/nfteam) | A simple bot for calculate your timeplay in fivem servers. | Python, Sqlite3, FiveM API |
+| [FiveM Timer](https://infinitycommunity.ir/discord) | A simple bot for calculate your timeplay in fivem servers. | Python, Sqlite3, FiveM API |
 | [Template Bot](https://github.com/MTMrAlone/Template-Bot) | A repository for discord developers bot have good error handling and cog supportation. | Python, Sqlite3 |
 | [RP Pause](https://github.com/MTMrAlone/RP-Pause) | A system for place rp pause in owl gaming gamemode in MTA:SA. | Multi Theft Auto S.A, Lua, Xml |
 | [Sturdy](https://sturdy.ir/) | A shopping website for a company | WordPress | 
