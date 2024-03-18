@@ -59,6 +59,3 @@ Here are some of the projects I have worked on or contributed to:
 ## 🏆 Achievements
 - Completed CS50x in 2023.
 - Discord Active Developer.
-
-[![Twitter](https://img.shields.io/twitter/follow/mtmralone?style=social)](https://x.com/mtmralone)
-[![Discord](https://img.shields.io/badge/InFinity-Discord-5865f2)](https://discord.gg/nfteam)
