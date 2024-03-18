@@ -27,9 +27,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">🗽 Mahdiyar Emad 🗽</h1>
 
+<div align="center">
+    <a href="https://github.com/iTzArshia/Animated-Banner/stargazers"> <img src="https://img.shields.io/github/stars/iTzArshia/Animated-Banner.svg" alt="GitHub stars"/> </a>
+    <a href="https://github.com/iTzArshia/Animated-Banner/network"> <img src="https://img.shields.io/github/forks/iTzArshia/Animated-Banner.svg" alt="GitHub forks"/> </a>
+    <a href="https://discord.gg/nKrBshQvcK"> <img src="https://badgen.net/discord/members/nKrBshQvcK" alt="iTz Development Discord"/> </a>
+    <a href="https://discord.gg/8hr9CRqmfc"> <img src="https://badgen.net/discord/members/8hr9CRqmfc" alt="iTz Club Discord"/> </a>
+</div>
 
-# 🗽 Mahdiyar Emad
 Hi, I'm Mahdiyar, a software developer from Iran. I love creating web applications and learning new technologies. I have a bachelor's degree in computer science and over three years of professional experience in various projects and domains.
 
 ## ⚡ Skills
