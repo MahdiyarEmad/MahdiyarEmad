@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">🗽 Mahdiyar Emad 🗽</h1>
+
+<div align="center">
+    <a href="https://discord.gg/infinitytm"><img src="https://badgen.net/discord/members/infinitytm?icon=discord" alt="InFinity Community"/></a>
+</div>
+
 Hi, I'm Mahdiyar, a software developer from Iran. I love creating web applications and learning new technologies. I have a bachelor's degree in computer science and over three years of professional experience in various projects and domains.
 
 ## ⚡ Skills
