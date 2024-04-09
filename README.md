@@ -30,3 +30,6 @@ Here are some of the projects I have worked on or contributed to:
 ## 🏆 Achievements
 - Completed CS50x in 2023.
 - Discord Active Developer.
+
+## ✉️ Certificates
+![CS50x Certificate](./CS50x.jpg?raw=true)
