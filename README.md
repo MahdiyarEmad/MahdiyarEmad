@@ -3,6 +3,7 @@
 <div align="center">
     <a href="https://discord.gg/infinitytm"><img src="https://badgen.net/discord/members/infinitytm?icon=discord" alt="InFinity Community"/></a>
     <a href="https://x.com/mtmralone"><img src="https://img.shields.io/twitter/follow/mtmralone?style=social" alt="MTMrAlone"/></a>
+    <a href="https://top.gg/bot/1102672586921488434"><img src="https://top.gg/api/widget/upvotes/1102672586921488434.svg"></a>
 </div>
 
 Hi, I'm Mahdiar, a software developer from Iran. I love creating web applications and learning new technologies. I have a bachelor's degree in computer science and over three years of professional experience in various projects and domains.
