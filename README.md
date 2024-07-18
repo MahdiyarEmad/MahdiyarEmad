@@ -27,6 +27,7 @@ Here are some of the projects I have worked on or contributed to:
 | [Sturdy](https://sturdy.ir/) | A shopping website for a company | WordPress | 
 | [Library](https://github.com/MTMrAlone/Library) | Library management system for school | Python, Sqlite3 |
 | [Group Role](https://github.com/MTMrAlone/GroupsRole-Bot) | Discord bot for grouping roles and give permission to member for giving a group of role. | Python, Sqlite3, Discord.py |
+| [BiGeZMoGe Bot](https://discord.gg/bigezmoge) | A Discord bot project for famous streamer & youtuber named BiGeZCoRD | Python, Discord.py |
 
 ## 🏆 Achievements
 - Completed CS50x in 2023.
