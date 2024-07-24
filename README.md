@@ -14,7 +14,7 @@ Hi, I'm Mahdiar, a software developer from Iran. I love creating web application
 - CorelDraw, PhotoShop, MySQL
 - Python, Flask, Discord.py
 - C, Algorithm, Data Structre
-- Git, GitHub, VS Code
+- Git, GitHub, VS Code, Linux
 
 ## 🌱 Projects
 Here are some of the projects I have worked on or contributed to:
