@@ -1,5 +1,4 @@
 <h1 align="center">🗽 Mahdiyar Emad 🗽</h1>
-62eb56f6eca19ab663e34173
 <div align="center">
     <a href="https://discord.gg/infinitytm"><img src="https://badgen.net/discord/members/infinitytm?icon=discord" alt="InFinity Community"/></a>
     <a href="https://x.com/mtmralone"><img src="https://img.shields.io/twitter/follow/mtmralone?style=social" alt="MTMrAlone"/></a>
